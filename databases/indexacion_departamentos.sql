@@ -1,4 +1,4 @@
-LOAD DATA INFILE 'C:/Users/user/Documents/DB_masivas/datos_municipios.csv'
+LOAD DATA INFILE 'C:/Users/user/Documents/DB_masivas/databases/datos_municipios.csv'
 REPLACE INTO TABLE departamento
 FIELDS TERMINATED BY ','
 OPTIONALLY ENCLOSED BY '"'
